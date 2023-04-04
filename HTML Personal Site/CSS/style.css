@@ -1,0 +1,45 @@
+
+  body {
+    text-align: center;
+    margin: 0;
+
+  }
+  hr {
+    border-style: none;
+    border-top-style: dotted;
+    }
+  h1{color: #19A7CE; font-size: 40px;
+    font-family: 'Ubuntu', sans-serif;
+
+  }
+  h3 {color: green;}
+
+  img:hover {
+    background-color: pink;
+    transform: scale(1.01);
+    }
+
+  .profile-pic {background-color: #31E1F7;
+    border-radius: 100%;
+    margin-bottom: 5%;
+  }
+  .sports {background-color: green;}
+
+  /* My Introduction */
+  #intro {
+    background-color: #B9FFF8;
+    padding: 7% 15%;
+
+  }
+
+
+  #skills {
+    background-color: #B9FFF8;
+    padding: 7% 15%;
+
+  }
+
+  .work-icon {
+    color: #A29E9E;
+
+  }
